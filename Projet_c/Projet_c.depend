@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649173454 source:c:\users\dahasa20\desktop\projet_c\src\vecteur.cpp
+	"Vecteur.h"
+	<iostream>
+
+1649173454 c:\users\dahasa20\desktop\projet_c\include\vecteur.h
+	<iostream>
+
+1649173335 source:c:\users\dahasa20\desktop\projet_c\main.cpp
+	<iostream>
+	"Vecteur.h"
+
